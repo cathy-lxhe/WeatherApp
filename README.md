@@ -4,6 +4,6 @@ This android application has following features：
   3. Freely switch the city, to see the weather in other cities
   4. You can update manually or automatically in the background regularly updated weather information
   
-![image](https://github.com/cathy-lxhe/WeatherApp/tree/master/res/01.png)
+![image](https://github.com/cathy-lxhe/WeatherApp/tree/master/res/001.jpg)
 
-![image](https://github.com/cathy-lxhe/WeatherApp/tree/master/res/02.png)
+![image](https://github.com/cathy-lxhe/WeatherApp/tree/master/res/002.jpg)

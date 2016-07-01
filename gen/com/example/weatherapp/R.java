@@ -1077,7 +1077,9 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int home=0x7f020057;
+        public static final int ic_launcher=0x7f020058;
+        public static final int refresh=0x7f020059;
     }
     public static final class id {
         public static final int action_bar=0x7f09001c;
@@ -1091,12 +1093,14 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f090002;
         public static final int action_menu_presenter=0x7f090003;
         public static final int action_mode_close_button=0x7f090024;
-        public static final int action_settings=0x7f09003c;
+        public static final int action_settings=0x7f090047;
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
         public static final int checkbox=0x7f09002d;
+        public static final int city_name=0x7f09003f;
         public static final int collapseActionView=0x7f090010;
+        public static final int current_date=0x7f090043;
         public static final int default_activity_button=0x7f090028;
         public static final int dialog=0x7f090014;
         public static final int disableHome=0x7f090009;
@@ -1112,13 +1116,16 @@ containing a value of this type.
         public static final int image=0x7f090027;
         public static final int listMode=0x7f090006;
         public static final int list_item=0x7f090029;
+        public static final int list_view=0x7f09003d;
         public static final int middle=0x7f090018;
         public static final int never=0x7f090012;
         public static final int none=0x7f090019;
         public static final int normal=0x7f090007;
         public static final int progress_circular=0x7f090004;
         public static final int progress_horizontal=0x7f090005;
+        public static final int publish_text=0x7f090041;
         public static final int radio=0x7f09002f;
+        public static final int refresh_weather=0x7f090040;
         public static final int search_badge=0x7f090032;
         public static final int search_bar=0x7f090031;
         public static final int search_button=0x7f090033;
@@ -1135,11 +1142,17 @@ containing a value of this type.
         public static final int showTitle=0x7f09000d;
         public static final int split_action_bar=0x7f09001e;
         public static final int submit_area=0x7f090039;
+        public static final int switch_city=0x7f09003e;
         public static final int tabMode=0x7f090008;
+        public static final int temp1=0x7f090045;
+        public static final int temp2=0x7f090046;
         public static final int title=0x7f09002b;
+        public static final int title_text=0x7f09003c;
         public static final int top_action_bar=0x7f090020;
         public static final int up=0x7f090021;
         public static final int useLogo=0x7f09000e;
+        public static final int weather_desp=0x7f090044;
+        public static final int weather_info_layout=0x7f090042;
         public static final int withText=0x7f090013;
     }
     public static final class integer {
@@ -1192,7 +1205,9 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
-        public static final int support_simple_spinner_dropdown_item=0x7f030018;
+        public static final int choose_area=0x7f030018;
+        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int weather_layout=0x7f03001a;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
